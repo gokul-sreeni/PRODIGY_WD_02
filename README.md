@@ -1,5 +1,5 @@
 Task-02
-Stopwatch Web Application
+Stopwatch Web Application :
 This is a stopwatch web application built using HTML, CSS, and JavaScript.
 HTML is used to structure the application with a clean and organized layout.
 CSS enhances the design, ensuring an intuitive and visually appealing interface.
